@@ -2,6 +2,7 @@
 
 - `stock-app-react`: `npm run dev`
 - this is `tanstack-router` and more vanilla react patterns I am familiar with.
+- there is tanstack-query persistent localStorage caching of all values for 24 hours since the API key is rate limited to `24 QPS/24 hours`
 - modify `.env` with your API key.
 
 ## next version, but it is all AI generated
